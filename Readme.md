@@ -44,7 +44,7 @@ Here are some results of our RSTAR-Net tested on __*real clinical CBCT scans*__.
 | Case  |             Averaged Image             |               Uncorrected Image                |               Corrected Image                |
 | :---: | :------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
 | Case1 | <img width="180" src="gif/prior.png">  | <img width="180" src="gif/T-uncorrected1.gif"> | <img width="180" src="gif/T-corrected1.gif"> |
-| Case2 | <img width="180" src="gif/prior2.png"> | <img width="180" src="gif/T-uncorrected2.gif"> | <img width="180" src="gif/T-corrected2.gif"> |
+| Case2 | <img width="180" src="gif/prior22.png"> | <img width="180" src="gif/T-uncorrected2.gif"> | <img width="180" src="gif/T-corrected2.gif"> |
 | Case3 | <img width="180" src="gif/prior3.png"> | <img width="180" src="gif/T-uncorrected3.gif"> | <img width="180" src="gif/T-corrected3.gif"> |
 
 </div>
