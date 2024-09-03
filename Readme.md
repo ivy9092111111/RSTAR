@@ -16,7 +16,7 @@ This repository is the official implementation of RSTAR4D. The main contribution
 
 1. According to the respiratory signal, the projection data from a full-circular scan are sorted into 10 respiratory phases.
 
-   <div align=center><img width="480" height="132" src="gif/fig1.jpg"></div>
+   <div align=center><img width="640" height="160" src="gif/fig1.jpg"></div>
 
 2. Within each phase, there are limited projection angles for CT reconstruction -> sparse-view reconstruction -> streak artifacts.
 
@@ -24,7 +24,7 @@ This repository is the official implementation of RSTAR4D. The main contribution
 
 3. The distribution of streak artifacts is closely related to the projection sampling pattern.
 
-   <div align=center><img width="480" height="216" src="gif/fig3.jpg"></div>
+   <div align=center><img width="640" height="256" src="gif/fig3.jpg"></div>
 
 4. The respiratory motion is quasi-periodic and sequential -> rotational projection sampling map.
 
