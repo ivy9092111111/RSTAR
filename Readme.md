@@ -1,7 +1,5 @@
 # RSTAR4D: <u>R</u>otational <u>ST</u>reak <u>A</u>rtifact <u>R</u>eduction in 4D CBCT using a Separable 4D CNN
 
-http://arxiv.org/abs/2403.16361
-
 Author: Ziheng Deng, Jun Zhao, School of BME, Shanghai Jiao Tong University
 
 This repository is the official implementation of RSTAR4D. The main contributions of the paper are:
