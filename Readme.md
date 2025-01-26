@@ -10,7 +10,7 @@ This repository is the official implementation of RSTAR4D. The main contribution
 
 
 
-## What is rotational streak artifacts (RSA)?
+## What are rotational streak artifacts (RSA)?
 
 1. According to the respiratory signal, the projection data from a full-circular scan are sorted into 10 respiratory phases.
 
