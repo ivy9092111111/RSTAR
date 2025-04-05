@@ -16,7 +16,7 @@ This repository is the official implementation of RSTAR4D. The main contribution
 
 This work has been accepted by IEEE Transactions on Radiation and Plasma Medical Sciences (IEEE TRPMS, early access).
 
-Codes and pre-trained model are available now. Please check the /code for the codes. Example data can be download from: [example_data](https://1drv.ms/f/c/db4039e05c3eb553/Ev7-DJrvvFFHmv62IxNZzBAB2KrUG21ddooG73w_Y4p17Q?e=2V1aX1)
+Codes and pre-trained model are available now. Please check the /githubcode for the codes. Example data can be download from: [example_data](https://1drv.ms/f/c/db4039e05c3eb553/Ev7-DJrvvFFHmv62IxNZzBAB2KrUG21ddooG73w_Y4p17Q?e=2V1aX1)
 
 Let me know if there is any bug.
 
